@@ -1,0 +1,7 @@
+analysis\exercise\Exercise1FlowFunctions.class
+analysis\IFDSTaintAnalysisProblem.class
+analysis\exercise\Exercise2FlowFunctions.class
+analysis\exercise\Exercise3FlowFunctions.class
+analysis\fact\DataFlowFact.class
+analysis\TaintAnalysisFlowFunctions.class
+analysis\VulnerabilityReporter.class
